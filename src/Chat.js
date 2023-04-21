@@ -1,7 +1,7 @@
-"use strict";
 import { Form } from "./Form";
 import { ChatBot } from "./ChatBot";
 import { ChatMessage } from "./ChatMessage";
+
 class Chat {
   constructor() {
     this.form = new Form();
